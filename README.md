@@ -26,3 +26,8 @@ let A1 = import("A")
 let B = require("../B.js")
 let [C] = function() {include("C");}
 ```
+D. 
+
+C. 
+
+B. 
